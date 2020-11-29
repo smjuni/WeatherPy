@@ -1,6 +1,6 @@
 #additional files to ignore
 config.py
-
+WeatherPy_Database2.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
